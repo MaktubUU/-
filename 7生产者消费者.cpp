@@ -55,7 +55,7 @@ void consumer()
     }
 
 }
-int main()
+int main07()
 {
     /*cout << "dsad " << endl;*/
     thread t1(producer);

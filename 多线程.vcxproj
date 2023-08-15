@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="6callonce.cpp" />
     <ClCompile Include="7生产者消费者.cpp" />
+    <ClCompile Include="leet10.cpp" />
+    <ClCompile Include="线程池项目.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

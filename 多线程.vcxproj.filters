@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\LeetCode">
+      <UniqueIdentifier>{2932297e-2af1-4414-ac79-d1faf78d5e57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6callonce.cpp">
@@ -20,6 +23,12 @@
     </ClCompile>
     <ClCompile Include="7生产者消费者.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线程池项目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leet10.cpp">
+      <Filter>源文件\LeetCode</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
